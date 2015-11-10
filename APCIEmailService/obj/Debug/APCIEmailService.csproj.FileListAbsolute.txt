@@ -1,0 +1,11 @@
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\APCIEmailService.exe.config
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\APCIEmailService.exe
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\APCIEmailService.pdb
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\Topshelf.dll
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Debug\APCIEmailService.exe
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Debug\APCIEmailService.pdb
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Debug\APCIEmailService.csprojResolveAssemblyReference.cache
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\Nancy.dll
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\Nancy.xml
+c:\users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Debug\Nancy.Hosting.Self.xml

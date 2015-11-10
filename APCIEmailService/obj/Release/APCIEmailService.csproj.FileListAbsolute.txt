@@ -1,0 +1,15 @@
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\APCIEmailService.exe.config
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\APCIEmailService.exe.manifest
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\APCIEmailService.application
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\APCIEmailService.exe
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\APCIEmailService.pdb
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\Nancy.dll
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\Nancy.Hosting.Self.dll
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\Topshelf.dll
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\Nancy.xml
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\bin\Release\Nancy.Hosting.Self.xml
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Release\APCIEmailService.csprojResolveAssemblyReference.cache
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Release\APCIEmailService.exe.manifest
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Release\APCIEmailService.application
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Release\APCIEmailService.exe
+C:\Users\clopez\documents\visual studio 2013\Projects\APCIEmailService\APCIEmailService\obj\Release\APCIEmailService.pdb
